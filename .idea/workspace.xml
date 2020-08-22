@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9e9e28b-a868-4440-ac24-c339a0837432" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bLGCY6zBPpfmQtVQI0IG8LYKuC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="G:\WebStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9e9e28b-a868-4440-ac24-c339a0837432" name="默认更改列表" comment="" />
+      <created>1588403832415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588403832415</updated>
+      <workItem from="1588403833571" duration="15685000" />
+      <workItem from="1588468901598" duration="11222000" />
+      <workItem from="1588724133217" duration="18748000" />
+      <workItem from="1588811431392" duration="7260000" />
+      <workItem from="1588849562280" duration="679000" />
+      <workItem from="1588897418452" duration="2464000" />
+      <workItem from="1588996805200" duration="608000" />
+      <workItem from="1594459657379" duration="387000" />
+      <workItem from="1594460359616" duration="1825000" />
+      <workItem from="1594603963599" duration="891000" />
+      <workItem from="1594888249907" duration="8736000" />
+      <workItem from="1595318065578" duration="12746000" />
+      <workItem from="1595642711959" duration="26088000" />
+      <workItem from="1596011241635" duration="5920000" />
+      <workItem from="1596197270469" duration="629000" />
+      <workItem from="1596204911242" duration="38000" />
+      <workItem from="1596205070303" duration="10324000" />
+      <workItem from="1596440071120" duration="16003000" />
+      <workItem from="1596464062860" duration="17000" />
+      <workItem from="1596464141347" duration="1209000" />
+      <workItem from="1596505265570" duration="610000" />
+      <workItem from="1596633372968" duration="599000" />
+      <workItem from="1596679381940" duration="623000" />
+      <workItem from="1596686403048" duration="13161000" />
+      <workItem from="1596726111350" duration="2732000" />
+      <workItem from="1597033085590" duration="1133000" />
+      <workItem from="1597036076929" duration="5801000" />
+      <workItem from="1597304458140" duration="667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3109" y="518" key="FileChooserDialogImpl" timestamp="1596726118061">
+      <screen x="2560" y="350" width="1536" height="816" />
+    </state>
+    <state x="3109" y="518" key="FileChooserDialogImpl/2560.350.1536.816/0.0.1707.920@2560.350.1536.816" timestamp="1596726118061" />
+    <state x="3302" y="494" width="632" height="534" key="find.popup" timestamp="1596445496088">
+      <screen x="2560" y="350" width="1536" height="816" />
+    </state>
+    <state x="742" y="145" width="632" height="534" key="find.popup/0.0.1536.824/-2560.-196.1707.920@0.0.1536.824" timestamp="1588500424882" />
+    <state x="3302" y="494" width="632" height="534" key="find.popup/2560.350.1536.816/0.0.1707.920@2560.350.1536.816" timestamp="1596445496088" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/index.js</url>
+          <line>32</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
